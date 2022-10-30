@@ -21,6 +21,7 @@ local StatusList = {
     ['confused'] = Lang:t('evidence.confused'),
     ['alcohol'] = Lang:t('evidence.alcohol'),
     ["heavyalcohol"] = Lang:t('evidence.heavy_alcohol'),
+    ['tobaccosmell'] = Lang:t('evidence.tobacco_smell'),
     ["agitated"] = Lang:t('evidence.agitated')
 }
 
